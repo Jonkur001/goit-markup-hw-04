@@ -451,3 +451,11 @@ img {
   display: flex;
   gap: 16px;
 }
+
+.footer_section_list_href:hover {
+  background-color: #31d0aa;
+}
+
+.footer_section_list_href:focus {
+  background-color: #31d0aa;
+}
